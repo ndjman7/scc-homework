@@ -1,1 +1,3 @@
 # SCC Homework
+
+- Week01
